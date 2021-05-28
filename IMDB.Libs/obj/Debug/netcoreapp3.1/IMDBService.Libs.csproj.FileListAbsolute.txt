@@ -1,0 +1,9 @@
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\bin\Debug\netcoreapp3.1\IMDBService.Libs.deps.json
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\bin\Debug\netcoreapp3.1\IMDBService.Libs.dll
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\bin\Debug\netcoreapp3.1\IMDBService.Libs.pdb
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.csprojAssemblyReference.cache
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.AssemblyInfoInputs.cache
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.AssemblyInfo.cs
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.csproj.CoreCompileInputs.cache
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.dll
+C:\Users\Kakarotas\Desktop\Saityno paslaugos\RestfulMovies-master\IMDB.Libs\obj\Debug\netcoreapp3.1\IMDBService.Libs.pdb

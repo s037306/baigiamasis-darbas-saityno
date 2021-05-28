@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xDrZA1nA8x1HcPKGfp8jmIaInsDVAwiCdehrAfgvwvTOI4CFgjnGlvwE353bIfIojvkNxIxXXrIbZV3h9H5gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kakarotas\\Desktop\\Saityno paslaugos\\RestfulMovies-master\\IMDB.Libs\\IMDBService.Libs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kakarotas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
